@@ -6,8 +6,8 @@ from dotenv import load_dotenv
 
 nest_asyncio.apply()
 load_dotenv()
-TOKEN = "ODY5ODg5NDc5NDgwMDY2MTA4.YQExtQ.6YtohaCfF0yyQ5Q3kPd6kkVloMU"
-GUILD = "MAFPOVBUL"
+TOKEN = ""
+GUILD = ""
 
 bot = commands.Bot(command_prefix = '!')
 
